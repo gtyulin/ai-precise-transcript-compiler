@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 精準逐字稿編譯器"
+  short_description: "逐層編碼長篇逐字稿、整合主題、產出講義與完整來源稽核"
+  default_prompt: "請依照逐字稿編譯流程，逐批建立意義單位、概念、類別與主題，產出可追溯講義並完成來源稽核。"
